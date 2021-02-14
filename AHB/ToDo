@@ -1,0 +1,155 @@
+
+
+1. Old Sessions
+2*. Upcoming Sessions (Open Sessions)
+3. My sessions / My favourites (Without Login)
+4. Our Initiatives
+5. Our Team (2 categories + 10 sub categories each)
+6. Login Page
+7. Sign Up Page
+8. 
+
+
+-----Partially Completed-------
+
+1. Old Sessions
+2. Upcoming Sessions (Open Sessions)
+3. My Session/ Old Session and My Favourites (With Login)
+4. My Session, My Favourites (Without Login)
+5. Our Intiatives (Minor Changes)
+6. Our Team (Categorization - Yet to complete)
+7. Login Page, SignUp page (Done)
+8. Registration Page after OAuth (Yet)
+9. Our Story
+10. Home Page (Later change)
+11. About (Comprises of 10 pages)
+12. 404 page (yet)
+13. Footer Page
+
+----Not Yet Started------------
+
+13. User Profile Page(with login and logout)
+14. Admin Panel Page Background
+15. Co-Creation Page
+16. To Host Registration Page (3 pop up page)
+17. To-Participate Registration Page (2 pop up page)
+18. To-Offer Registration Page (2 pop up page)
+19. Thani Oruvan Initiative - 3 pages
+	Outsider - Can View other user Dreams
+	User - Can Edit, Delete and Add his/her dreams
+	
+20. Events today (Form Create, Share events, view List of events) - Replica of Thanioruvan
+21. Social Media Sharing page (whatsapp, insta, blog, fb, twitter, youtube, linkedIn)
+22. View Session Page (4 Pages)
+23. Motta Madi Santhippu (Registration Page, View Page, Loc page and like 5 pages)
+24. FAQ Page (Chat Bot), Privacy Concern and Agreements Page  
+
+
+
+After Login:
+
+1) Session Details- Speaker and Host private details
+2) 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Clicks Redirection: (Home Page)
+
+1. iam@amazinghuman.in -> to mailing
+2. +91 9840969548 -> https://api.whatsapp.com/send?phone=+919840969548&text=I%27m%20happy%20to%20be%20part%20of%20this%20loving%20community
+3. Home -> Home page -> www.amazinghuman.in/Home
+4. About -> About AHB page (outsiders) -> www.amazinghuman.in/About
+5. About -> About Initiative page (for both insiders/outsider) -> www.amazinghuman.in/Our-Iniatives/<initiative name>/About
+Example: 
+if its Lets talk lets connect initiative -> www.amazinghuman.in/Our-Iniatives/Lets-Talk-Lets-Connect/About
+if its Thani Oruvan initiative -> www.amazinghuman.in/Our-Iniatives/Thani-Oruvan/About
+6. Our Story -> Our AHB Story page  -> www.amazinghuman.in/Our-Story
+7. Our Initiatives -> Our initiatives page -> www.amazinghuman.in/Our-Iniatives
+8. Our Initiative - Join us Button -> Redirects the user to login page (If the user didnt register) - www.amazinghuman.in/Login
+9. Our Initiative - Join us Button -> Redirects the user to respective 'Initiative About us' Page (If the user logged in) - www.amazinghuman.in/Our-Iniatives/<initiative name>/About
+10. Our Team -> Our Team page -> www.amazinghuman.in/Our-Team
+11. Our Team -> Respective initiative Team page -> www.amazinghuman.in/Our-Initiatives/<initiative-name>/Team
+12. Agreement -> Our AHB Agreement page - www.amazinghuman.in/agreements (view for outsiders with agreements for all initiatives)
+13. Agreement -> Respective initiative agreement - www.amazinghuman.in/Our-Iniatives/<initiative name>/agreement (inside login)
+14. Social media links -> respective "Amazing Human Being" Platform
+15. Login -> User Login page -> www.amazinghuman.in/Login
+16. Footer -> All above pages with respectives links
+
+
+
+Charts:
+
+https://www.amcharts.com/demos/radar-with-axis-break/
+https://www.amcharts.com/demos/stacked-area-radar/
+https://www.amcharts.com/demos/radar-with-date-axis/
+https://www.amcharts.com/demos/annotating-charts/
+
+
+
+My Skills: Dynamic Map Tracker Chart
+
+Interest/ Hobbies: https://www.amcharts.com/demos/pictorial-fraction-chart/
+
+I Can offer: When user types - > shows corresponding Images on RHS
+
+Inintiatives Involved: Add Button to join in respective clicked initative.
+
+
+Font Family:
+Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif
+
+Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif
+
+
+Amazing Human Being8:38 PM
+UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif
+"Poppins", sans-serif !important
+Amazing Human Being9:39 PM
+
+
+
+Home Registration Template Contents:
+----------------------------------------
+
+Give your session details (5) - Describe  your session
+* Give your session a title. Make it short, descriptive and exciting.
+* Describe your session in 200 words
+* What participants should bring to be in your session 
+* Language 
+
+Your available date (1) 
+* Choose the date (with common timings)
+
+Who can attend your session (4) - Additional requirements
+* Age
+* Maximum Group size
+* Audience Types
+* What skill level was required?
+
+
+
+
+
+Speaker details (5) - Tell us about yourself
+* Profile photo
+* Full
+* Full Name
+* Type your short biography
+* Current employment status
+* Choose your top best 3 skills
+
+Contact information (3) - To reach out you
+* Phone Number
+* Email Id
+* Current location
+* Social media icons
+
+
+
+
+
+
+
+
+
+
+
