@@ -1,14 +1,17 @@
 
-1) Go to the folder:                               			D:\Local GitRepo\AHB\Website\
+1) Go to the folder:                               			D:\<Local GitRepo>\AHB\Website\
 
 
 2) Run CMD
 
 
-3) Production Build Command:                       			> ng build --prod --base-href "https://amazinghumanbeings.github.io/Website/"
+3) Production Build Command:                       			> ng build --prod --base-href "https://<your-username>.github.io/Website/"
 
 
 4) Move the files from /AmazingHumanBeingFE to /dist
 
 
 5) Pushing build pages to github account:           		> ngh --dir dist/AmazingHumanBeingFE --no-silent
+
+
+**Note: commands are case sensitive**
