@@ -14,4 +14,7 @@
 5) Pushing build pages to github account:           		> ngh --dir dist/AmazingHumanBeingFE --no-silent
 
 
+6) Test the site update in Live URL: https://amazinghumanbeings.github.io/Website/
+
+
 **Note: commands are case sensitive**
