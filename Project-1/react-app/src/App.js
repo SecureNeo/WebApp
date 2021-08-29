@@ -1,17 +1,15 @@
-import logo from './logo.svg';
+import gif from './devo.gif';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+
         <p>
-          {/*
-          Edit <code>src/App.js</code> and save to reload.
-          */}
           Welcome to the new Era of Azure DevOps Integration and Releases!
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -20,6 +18,9 @@ function App() {
         >
           Kick Starting with REACT Framework
         </a>
+
+        <img src={gif} className="App-logo" alt="logo" />
+
       </header>
     </div>
   );
