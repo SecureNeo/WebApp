@@ -1,6 +1,6 @@
 Video WalkThrough:
 
-<video src='https://www.youtube.com/embed/j6PbonHsqW0' width=180></video>
+<video src="https://github.com/SecureNeo/WebApp/blob/master/AHB/Amazing%20Human%20Being.mp4"></video>
 
 # AmazingHumanBeingFE
 
