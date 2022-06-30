@@ -1,6 +1,6 @@
 Video WalkThrough:
 
-<video src='https://www.youtube.com/embed/j6PbonHsqW0' width=180/>
+<video src='https://www.youtube.com/embed/j6PbonHsqW0' width=180></video>
 
 # AmazingHumanBeingFE
 
