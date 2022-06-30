@@ -1,6 +1,3 @@
-Video WalkThrough:
-
-<video src="https://github.com/SecureNeo/WebApp/blob/master/AHB/Amazing%20Human%20Being.mp4"></video>
 
 # AmazingHumanBeingFE
 
